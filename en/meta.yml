@@ -1,12 +1,12 @@
 title: generic-python-turtle-new
 hero_image: images/banner.png
 description: generic-python-turtle-new description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+original_url: 
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
-ingredient: false
-interests: "games"
-technologies: "python, scratch"
+ingredient: true
+interests: "graphics"
+technologies: "python, turtle"
 steps:
   - title: Step one
