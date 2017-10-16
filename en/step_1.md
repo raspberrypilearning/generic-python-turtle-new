@@ -1,9 +1,9 @@
 You can have lots of turtles on the screen at the same time. 
 
-To create a new turtle use:
+To create a new turtle, you can use:
 
 ```python
-ada = turtle.Turtle() # ada is the name of the turtle variable
+ada = turtle.Turtle() # ada is the name of this new turtle variable
 ```
 
 Then you can use turtle functions on the `ada` variable. 
